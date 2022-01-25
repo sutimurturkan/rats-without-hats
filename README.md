@@ -72,7 +72,7 @@ A Random Forest was performed using Scikit-Learn. Various combinations of maximu
 Because the data set is unbalanced in the number of affected vs unaffected individuals, a randomly selected sample from the data set has a 74.6% probability of being affected. In the tables presented below, we are searching for methods that have noticeable deviation from probability due to chance alone.
 
 #### Fig. F1 - K-Means elbow analysis over entire scaled data set
-![K-Means Elbow Analysis over Raw Data](raw_kmeans_elbow2_40.png)
+![K-Means Elbow Analysis over Raw Data](/docs/raw_kmeans_elbow2_40.png)
 
 #### Table T1 - Partitioning of unaffected vs affected into clusters by K-Means over entire scaled data set
 | Unaffected | Affected | Ratio |
