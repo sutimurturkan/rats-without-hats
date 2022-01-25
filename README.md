@@ -249,6 +249,5 @@ and Dimensionality Reduction with SVM Classifier](https://www.hindawi.com/journa
 from Speech](https://ieeexplore.ieee.org/abstract/document/8969430?casa_token=IgSUTOkHeJoAAAAA:7DZe463IBhOllBG6uAAlPxUdaIbt9q0qRaykNNijhjD-xXcyW3Ks4WBwwozB8DnbAiL2IZF9)
 
 [Collection and Analysis of a Parkinson Speech Dataset With Multiple Types of Sound Recordings](https://www.researchgate.net/publication/260662600_Collection_and_Analysis_of_a_Parkinson_Speech_Dataset_With_Multiple_Types_of_Sound_Recordings)
-=======
+
 [Frank Rosenblatt: Principles of Neurodynamics: Perceptrons and the Theory of Brain Mechanisms](https://link.springer.com/chapter/10.1007/978-3-642-70911-1_20)
->>>>>>> 4ad3ba28acf8add37065e0e4399bf81bcc283645
