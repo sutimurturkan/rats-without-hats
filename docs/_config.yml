@@ -1,0 +1,6 @@
+title: Rats with Hats
+description: Machine learning project using visual evoked potentials to determine what a rat saw.
+show_downloads: true
+google_analytics:
+theme: jekyll-theme-cayman
+markdown: GFM
