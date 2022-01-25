@@ -81,7 +81,7 @@ Because the data set is unbalanced in the number of affected vs unaffected indiv
 | 153 | 242 | 0.613 |
 
 #### Fig. F2 - K-Means elbow analysis over 170-component PCA data fit to entire data set
-![K-Means Elbow Analysis over PCA-170 Entire Data](pca170_kmeans_elbow2_40.png)
+![K-Means Elbow Analysis over PCA-170 Entire Data](/docs/pca170_kmeans_elbow2_40.png)
 
 #### Table T2 - Partitioning of unaffected vs affected into clusters by K-Means over 170-component PCA data fit to entire data set
 | Unaffected | Affected | Ratio |
@@ -90,7 +90,7 @@ Because the data set is unbalanced in the number of affected vs unaffected indiv
 | 154 | 244 | 0.613 |
 
 #### Fig. F3 - K-Means elbow analysis over 170-component PCA data fit to affected data set
-![K-Means Elbow Analysis over PCA-170 Affected Data](pca170_diseased_kmeans_elbow2_40.png)
+![K-Means Elbow Analysis over PCA-170 Affected Data](/docs/pca170_diseased_kmeans_elbow2_40.png)
 
 #### Table T3 - Partitioning of unaffected vs affected into clusters by K-Means over 170-component PCA data fit to affected data set
 | Unaffected | Affected | Ratio |
@@ -99,7 +99,7 @@ Because the data set is unbalanced in the number of affected vs unaffected indiv
 | 36 | 317 | 0.898 |
 
 #### Fig. F4 - K-Means elbow analysis over 170-component PCA data fit to unaffected data set
-![K-Means Elbow Analysis over PCA-170 Unaffected Data](pca170_healthy_kmeans_elbow2_40.png)
+![K-Means Elbow Analysis over PCA-170 Unaffected Data](/docs/pca170_healthy_kmeans_elbow2_40.png)
 
 When the 170-component PCA was fitted to unaffected data, a 0.9984 explained variance was achieved.
 
@@ -122,56 +122,56 @@ When the 170-component PCA was fitted to unaffected data, a 0.9984 explained var
 | 5 | 8 | 0.615 |
 
 ### Figs. F5 - Two-Component GMM on 170-component PCA fitted to the entire data set
-![GMM Confusion Matrix 1](gmm_confusionmatrix_1.png)
-![GMM Confusion Matrix 2](gmm_confusionmatrix_2.png)
-![GMM Confusion Matrix 3](gmm_confusionmatrix_3.png)
-![GMM Confusion Matrix 4](gmm_confusionmatrix_4.png)
-![GMM Confusion Matrix 5](gmm_confusionmatrix_5.png)
+![GMM Confusion Matrix 1](/docs/gmm_confusionmatrix_1.png)
+![GMM Confusion Matrix 2](/docs/gmm_confusionmatrix_2.png)
+![GMM Confusion Matrix 3](/docs/gmm_confusionmatrix_3.png)
+![GMM Confusion Matrix 4](/docs/gmm_confusionmatrix_4.png)
+![GMM Confusion Matrix 5](/docs/gmm_confusionmatrix_5.png)
 
 ### Figs. F6 - Five-Component PCA Fitted to Full Data Set
-![PCA Component 2 vs. PCA Component 1](full_pca5_1_2.png)
-![PCA Component 3 vs. PCA Component 1](full_pca5_1_3.png)
-![PCA Component 4 vs. PCA Component 1](full_pca5_1_4.png)
-![PCA Component 3 vs. PCA Component 2](full_pca5_2_3.png)
-![PCA Component 4 vs. PCA Component 2](full_pca5_2_4.png)
-![PCA Component 4 vs. PCA Component 3](full_pca5_3_4.png)
+![PCA Component 2 vs. PCA Component 1](/docs/full_pca5_1_2.png)
+![PCA Component 3 vs. PCA Component 1](/docs/full_pca5_1_3.png)
+![PCA Component 4 vs. PCA Component 1](/docs/full_pca5_1_4.png)
+![PCA Component 3 vs. PCA Component 2](/docs/full_pca5_2_3.png)
+![PCA Component 4 vs. PCA Component 2](/docs/full_pca5_2_4.png)
+![PCA Component 4 vs. PCA Component 3](/docs/full_pca5_3_4.png)
 
 ### Figs. F7 - Five-Component PCA Fitted to Affected Data Set
-![PCA Component 2 vs. PCA Component 1](affected_pca5_1_2.png)
-![PCA Component 3 vs. PCA Component 1](affected_pca5_1_3.png)
-![PCA Component 4 vs. PCA Component 1](affected_pca5_1_4.png)
-![PCA Component 3 vs. PCA Component 2](affected_pca5_2_3.png)
-![PCA Component 4 vs. PCA Component 2](affected_pca5_2_4.png)
-![PCA Component 4 vs. PCA Component 3](affected_pca5_3_4.png)
+![PCA Component 2 vs. PCA Component 1](/docs/affected_pca5_1_2.png)
+![PCA Component 3 vs. PCA Component 1](/docs/affected_pca5_1_3.png)
+![PCA Component 4 vs. PCA Component 1](/docs/affected_pca5_1_4.png)
+![PCA Component 3 vs. PCA Component 2](/docs/affected_pca5_2_3.png)
+![PCA Component 4 vs. PCA Component 2](/docs/affected_pca5_2_4.png)
+![PCA Component 4 vs. PCA Component 3](/docs/affected_pca5_3_4.png)
 
 ### Figs. F8 - Five-Component PCA Fitted to Unaffected Data Set
-![PCA Component 2 vs. PCA Component 1](unaffected_pca5_1_2.png)
-![PCA Component 3 vs. PCA Component 1](unaffected_pca5_1_3.png)
-![PCA Component 4 vs. PCA Component 1](unaffected_pca5_1_4.png)
-![PCA Component 3 vs. PCA Component 2](unaffected_pca5_2_3.png)
-![PCA Component 4 vs. PCA Component 2](unaffected_pca5_2_4.png)
-![PCA Component 4 vs. PCA Component 3](unaffected_pca5_3_4.png)
+![PCA Component 2 vs. PCA Component 1](/docs/unaffected_pca5_1_2.png)
+![PCA Component 3 vs. PCA Component 1](/docs/unaffected_pca5_1_3.png)
+![PCA Component 4 vs. PCA Component 1](/docs/unaffected_pca5_1_4.png)
+![PCA Component 3 vs. PCA Component 2](/docs/unaffected_pca5_2_3.png)
+![PCA Component 4 vs. PCA Component 2](/docs/unaffected_pca5_2_4.png)
+![PCA Component 4 vs. PCA Component 3](/docs/unaffected_pca5_3_4.png)
 
 ### Figs. F9 - Ten-Bin Histogram of 5-Component PCA Fitted to Full Data Set
-![Histogram of PCA Component 1](hist10_full_component1.png)
-![Histogram of PCA Component 2](hist10_full_component2.png)
-![Histogram of PCA Component 3](hist10_full_component3.png)
-![Histogram of PCA Component 4](hist10_full_component4.png)
-![Histogram of PCA Component 5](hist10_full_component5.png)
+![Histogram of PCA Component 1](/docs/hist10_full_component1.png)
+![Histogram of PCA Component 2](/docs/hist10_full_component2.png)
+![Histogram of PCA Component 3](/docs/hist10_full_component3.png)
+![Histogram of PCA Component 4](/docs/hist10_full_component4.png)
+![Histogram of PCA Component 5](/docs/hist10_full_component5.png)
 
 ### Figs. F10 - Ten-Bin Histogram of 5-Component PCA Fitted to Affected Data Set
-![Histogram of PCA Component 1](hist10_affected_component1.png)
-![Histogram of PCA Component 2](hist10_affected_component2.png)
-![Histogram of PCA Component 3](hist10_affected_component3.png)
-![Histogram of PCA Component 4](hist10_affected_component4.png)
-![Histogram of PCA Component 5](hist10_affected_component5.png)
+![Histogram of PCA Component 1](/docs/hist10_affected_component1.png)
+![Histogram of PCA Component 2](/docs/hist10_affected_component2.png)
+![Histogram of PCA Component 3](/docs/hist10_affected_component3.png)
+![Histogram of PCA Component 4](/docs/hist10_affected_component4.png)
+![Histogram of PCA Component 5](/docs/hist10_affected_component5.png)
 
 ### Figs. F11 - Ten-Bin Histogram of 5-Component PCA Fitted to Unaffected Data Set
-![Histogram of PCA Component 1](hist10_unaffected_component1.png)
-![Histogram of PCA Component 2](hist10_unaffected_component2.png)
-![Histogram of PCA Component 3](hist10_unaffected_component3.png)
-![Histogram of PCA Component 4](hist10_unaffected_component4.png)
-![Histogram of PCA Component 5](hist10_unaffected_component5.png)
+![Histogram of PCA Component 1](/docs/hist10_unaffected_component1.png)
+![Histogram of PCA Component 2](/docs/hist10_unaffected_component2.png)
+![Histogram of PCA Component 3](/docs/hist10_unaffected_component3.png)
+![Histogram of PCA Component 4](/docs/hist10_unaffected_component4.png)
+![Histogram of PCA Component 5](/docs/hist10_unaffected_component5.png)
 
 ### Supervised
 
