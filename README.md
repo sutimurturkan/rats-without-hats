@@ -9,7 +9,7 @@
 ![Project Infographic](/media/brain.jpg)
 
 ### Introduction
-We used Sohel Rana's Parkinson's Disease Classification (PDC) [Visual Coding](https://www.kaggle.com/sohelranaccselab/parkinsons-disease-classification)dataset on Kaggle.
+We used Sohel Rana's Parkinson's Disease Classification [PDC](https://www.kaggle.com/sohelranaccselab/parkinsons-disease-classification) dataset on Kaggle.
 
 Parkinson's Disease (PD) is a progressive neurodegenerative disorder that is part of the Lewy Body Dementias umbrella that also includes Dementia with Lewy Bodies (DLB). As the name of the umbrella term implies, the defining characteristic of both disorders is the presence of Lewy bodies (plaques in the brain). While both disorders ultimately result in the same symptoms, the distinguisher between them is whether the tremor (PD) or another symptom appears first (DLB).
 
