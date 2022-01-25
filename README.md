@@ -1,4 +1,4 @@
-# Rats with Hats
+# Rats without Hats
 ### Contributors:
 * [Su Timurturkan](https://github.com/sutimurturkan)
 * [Justin Cropsey](https://github.com/jcropsey-gatech)
