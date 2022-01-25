@@ -4,8 +4,6 @@
 * [Justin Cropsey](https://github.com/jcropsey-gatech)
 * [David Gordon](https://github.com/DavidCGordon)
 
-
-### Summary Figure
 ![Project Infographic](/media/brain.jpg)
 
 ## Introduction
